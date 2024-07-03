@@ -47487,5 +47487,14 @@
     "callsign": "ASIA CARGO",
     "country": "Malaysia",
     "logo": "https://images.kiwi.com/airlines/64/3G.png"
+  },
+  "NZV": {
+    "name": "Venom Airways",
+    "alias": "",
+    "iata": "V1",
+    "icao": "NZV",
+    "callsign": "Venom",
+    "country": "New Zealand",
+    "logo": "https://i.postimg.cc/0NKfCrZ1/V1.png"
   }
 }
